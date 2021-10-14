@@ -10,5 +10,10 @@ HLS lab a
   * unroll
   * loo_flatten
 * pipeline 
+* latency 
+  * when RTL cannot meet timing requirements, manually specify min/max delay of a scope
 * Reference: https://www.xilinx.com/html_docs/xilinx2019_1/sdaccel_doc/hls-pragmas-okr1504034364623.html 
 
+## bottlenecks
+* IO port count of RAM
+* data dependency 
