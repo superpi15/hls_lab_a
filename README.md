@@ -12,6 +12,8 @@ HLS lab a
 * pipeline 
 * latency 
   * when RTL cannot meet timing requirements, manually specify min/max delay of a scope
+* array_partition 
+  * use several BRAM to mitigate port count bottlenecks 
 * Reference: https://www.xilinx.com/html_docs/xilinx2019_1/sdaccel_doc/hls-pragmas-okr1504034364623.html 
 
 ## bottlenecks
