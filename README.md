@@ -1,3 +1,9 @@
+# Foreword
+
+Oct. 17 A repository for HLS course lab a. 
+
+Nov. 11 Becomes a repository recording any HLS content. The name keeps the same for some external links to this page.
+
 # hls_lab_a
 HLS lab a 
 
